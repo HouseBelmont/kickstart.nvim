@@ -1,9 +1,9 @@
-#tags
-#test.sh
-#.luarc.json
-#nvim
+tags
+test.sh
+.luarc.json
+nvim
 
-#spell/
+spell/
 
 # In your personal fork, you likely want to comment this, since it's recommended to track
 # nvim-pack-lock.json in version control - see :help vim.pack-lockfile
@@ -11,4 +11,4 @@
 # merge conflicts.
 #nvim-pack-lock.json
 
-#.DS_Store
+.DS_Store
